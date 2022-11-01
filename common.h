@@ -23,3 +23,4 @@ int onError(errorcode error, char* filename);
 errorcode  HuffmanC(char* infile, char* outfile);
 float getratio(char* infile, char* outfile);
 void printsize(char* file);
+//bugfix
